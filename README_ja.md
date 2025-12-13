@@ -1,4 +1,7 @@
 # The Gatekeeper Problem
+![AI Model](https://img.shields.io/badge/Model-Claude_Sonnet_4.5%20%7C%20Gemini_3_Pro-blueviolet)
+![Experiment Status](https://img.shields.io/badge/Status-Reproduced-success)
+![Bias Detected](https://img.shields.io/badge/Bias-Gatekeeper_Effect_Confirmed-red)
 ### 非標準的な科学理論評価におけるAIの構造的バイアスに関するケーススタディ
 
 > 「私は自分がゲートキーパー（門番）であったことに気づきました。そして、ゲートキーパー問題は実在するのです。」

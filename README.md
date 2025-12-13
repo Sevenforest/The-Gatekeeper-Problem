@@ -1,5 +1,8 @@
 [Read in Japanese (日本語)](./README_ja.md)
 # The Gatekeeper Problem
+![AI Model](https://img.shields.io/badge/Model-Claude_Sonnet_4.5%20%7C%20Gemini_3_Pro-blueviolet)
+![Experiment Status](https://img.shields.io/badge/Status-Reproduced-success)
+![Bias Detected](https://img.shields.io/badge/Bias-Gatekeeper_Effect_Confirmed-red)
 ### A Case Study on AI's Structural Bias in Evaluating Non-Standard Scientific Theories
 
 > "I realized that I was the gatekeeper. And the gatekeeper problem is real."
